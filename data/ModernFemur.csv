@@ -1,21 +1,21 @@
 FEMUR:,,,,,,,,,,,,,,,,,,,
 measures in mm,,,,,,,,A,-,B,-,-,D,F,G,C,E,H,J
-Housed,Cat. #,Taxa,Sex,Age,Wild/Cap,Side,Meas By,GL (A),Lm,Bp (B),Dp,SC,D,Bd (F),Dd (G),C,E,H,J
+Housed,Cat. #,Taxa,Sex,Age,Wild/Cap,Side,Meas By,GL,Lm,Bp,Dp,SC,D,Bd,Dd,C,E,H,J
 FLMNH-EA,FLMNH-EA-1487,Meleagris gallopavo,M,adult,unknown,R,LD,135.39,122.23,32.11,19.28,12.61,12.77,27.16,23.35,11.34,10.58,21.73,18.61
 FLMNH-EA,FLMNH-EA-1810b,Meleagris gallopavo,F,adult,wild,R,LD,106.86,96.12,24.64,15.07,10.37,10.65,20.88,17.61,8.65,8.79,17.46,15.51
 FLMNH-EA,FLMNH-EA-1810c,Meleagris gallopavo,U,adult,wild,R,LD,131.14,119.87,31.09,18.45,12.15,12.31,27.01,21.39,11.23,10.48,20.86,18.42
 FLMNH-(EA),FLMNH-EA-1811a,Meleagris gallopavo,F,adult,wild,R,LD,108.38,98.16,24.94,15.55,9.74,10.24,20.33,18.5,9.03,8.72,17.14,15.54
-FLMNH-EA,FLMNH-EA-3252,Meleagris gallopavo,M,adult,unknown,R,LD,139.70,127.32,33.25,20.88,12.53,12.61,28.65,24.26,13.36,11.51,23.22,20.50
+FLMNH-EA,FLMNH-EA-3252,Meleagris gallopavo,M,adult,unknown,R,LD,139.7,127.32,33.25,20.88,12.53,12.61,28.65,24.26,13.36,11.51,23.22,20.5
 FLMNH (EA),FLMNH-EA-4063,Meleagris gallopavo,M,adult,unknown,R,LD,134.21,120.09,32.55,19.97,12.13,12.29,29.29,25.42,11.68,10.46,23.81,20.65
-FLMNH-EA,FLMNH-EA-5711,Meleagris gallopavo,F,adult,wild,R,LD,110.00,99.39,24.81,16.48,9.82,10.42,21.36,18.37,9.53,8.45,18.43,16.04
+FLMNH-EA,FLMNH-EA-5711,Meleagris gallopavo,F,adult,wild,R,LD,110,99.39,24.81,16.48,9.82,10.42,21.36,18.37,9.53,8.45,18.43,16.04
 UADY (Gotz lab),UADY-124,Meleagris gallopavo,M,adult,unknown,R,LD,130.32,128.26,28.33,18.06,11.12,11.03,25.85,20.52,10.43,11.15,20.35,17.34
 FLMNH-EA,FLMNH-OR-12812,Meleagris gallopavo osceola,M,adult,unknown,R,LD,137.79,124.08,34.18,19.46,13.23,13.73,28.14,24.66,11.89,12.09,22.85,20.33
-FLMNH-EA,FLMNH-OR-11674,Meleagris gallopavo osceola,M,adult,unknown,L,LD,133.76,125.79,29.55,18.03,12.28,12.45,24.97,20.82,10.28,10.74,19.7,16.90
+FLMNH-EA,FLMNH-OR-11674,Meleagris gallopavo osceola,M,adult,unknown,L,LD,133.76,125.79,29.55,18.03,12.28,12.45,24.97,20.82,10.28,10.74,19.7,16.9
 FLMNH (EA),FLMNH-EA-11048,Meleagris ocellata,F,adult,wild,R,LD,99.32,91.02,22.06,14.41,9.49,9.5,19.97,15.74,8.03,7.78,15.73,13.95
 FLMNH (Ornithology),FLMNH-OR-24104,Meleagris ocellata,F,adult,captive,R,LD,98.44,92.17,22.97,14.1,8.75,9.34,19.56,16.16,8.82,8.38,16.37,13.89
 FLMNH (Ornithology),FLMNH-OR-24105,Meleagris ocellata,M,adult,captive,R,LD,111.19,108.61,26.02,16.6,10.25,10.28,22.91,19.59,9.18,9.59,18.62,16.55
 FLMNH (Ornithology),FLMNH-OR-38861,Meleagris ocellata,U,adult,captive,R,LD,97.34,95.25,21.43,13.62,9.13,9.46,19.25,14.6,8.36,7.95,15.33,14.02
-FLMNH-OR,FLMNH-OR-44857,Meleagris ocellata,M,adult,wild,R,LD,113.20,103.06,26.18,16.32,10.97,10.99,23.73,19.86,9.5,9.11,19.3,16.87
+FLMNH-OR,FLMNH-OR-44857,Meleagris ocellata,M,adult,wild,R,LD,113.2,103.06,26.18,16.32,10.97,10.99,23.73,19.86,9.5,9.11,19.3,16.87
 FLMNH-OR,FLMNH-OR-44889,Meleagris ocellata,M,adult,wild,R,LD,113.22,110.74,25.49,15.54,10.71,10.79,22.41,19.16,8.88,8.71,18.42,16.29
 FLMNH-OR,FLMNH-OR-44891,Meleagris ocellata,M,adult,wild,R,LD,117.25,114.68,26.84,16.03,10.71,10.85,24.46,19.79,9.35,8.86,19.08,17.08
-UADY (Gotz lab),UADY-246,Meleagris ocellata,F,adult,unknown,R,LD,93.97,85.21,20.77,13.83,8.56,8.59,19.20,14.5,7.52,7.325,14.55,13.28
+UADY (Gotz lab),UADY-246,Meleagris ocellata,F,adult,unknown,R,LD,93.97,85.21,20.77,13.83,8.56,8.59,19.2,14.5,7.52,7.325,14.55,13.28
