@@ -1,2 +1,2 @@
 # turkey
-Identification of turkey species from archeological bones
+Identification of the species of turkey from incomplete archeological bones
